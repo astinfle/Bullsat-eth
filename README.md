@@ -1,4 +1,15 @@
 # Bullsat-eth
+Simple Web3 Project is a JavaScript library that provides a simple interface for interacting with the Ethereum blockchain using Web3.js.
+
+Features
+Fetch the latest block number on the Ethereum blockchain.
+Get the balance of an Ethereum address.
+Call methods of Ethereum smart contracts.
+Installation
+You can install Simple Web3 Project via npm:
+
+npm install Bullsat
+Usage
 const SimpleWeb3Project = require('Bullsat-eth');
 
 // Create an instance with your preferred Ethereum node endpoint const web3Project = new SimpleWeb3Project('https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID');
