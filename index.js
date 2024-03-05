@@ -1,4 +1,4 @@
-// index.js astinfle connect ethereum
+// index.js Bullsat connect ethereum
 
 const Web3 = require('web3');
 
